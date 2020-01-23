@@ -1,0 +1,12 @@
+/* Add application styles & imports to this file! */
+body {
+  margin: 40px;
+}
+
+.custom-grid .wj-header.wj-cell {
+  background-color: orange;
+}
+
+.custom-grid .wj-cell, .custom-grid .wj-cell.wj-alt {
+  background-color: cyan;
+}
